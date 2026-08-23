@@ -97,7 +97,7 @@ The SQL analysis identified the top-rated products based on average review ratin
 
 An interactive **Power BI dashboard** was created to visualize the results.
 
-### Dashboard Features
+## Dashboard Features
 
 - Average Purchase Amount
 - Average Review Rating
